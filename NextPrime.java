@@ -28,7 +28,7 @@ public class NextPrime {
         return false;
       n += 2;
     }
-    return false;
+    return true;
   }
 
   // --------------------------------------------------------------- //
