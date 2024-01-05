@@ -36,7 +36,7 @@ public class NextPrime {
   public static int nextPrime(int number) {
     // ToDo: implement the unit test first
     // ToDo: add code to get the next prime number
-    return 0;
+    return 100;
   }
 
   // --------------------------------------------------------------- //
