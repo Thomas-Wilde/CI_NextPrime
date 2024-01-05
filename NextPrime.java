@@ -15,6 +15,9 @@ public class NextPrime {
     // --- 2 is prime by definition
     if (2 == number)
       return true;
+    // --- 3 is prime by definition
+    if (3 == number)
+      return true;
     // --- check all even numbers
     if (number % 2 == 0)
       return false;
