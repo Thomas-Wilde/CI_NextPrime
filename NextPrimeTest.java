@@ -62,7 +62,7 @@ public class NextPrimeTest {
   @Test
   public void testNextPrime() {
     System.out.print("testing nextPrime() ... ");
-    assertEquals("this will fail", false, true);
+    assertEquals("this will fail", 100, NextPrime.nextPrime(0));
     // ToDo: implement this test function to check `nextPrime`
   }
 }
